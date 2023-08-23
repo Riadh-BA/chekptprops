@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.card-div {
+  background-color: blue;
+  width: 25%;
+  height: 40%;
+}
+
+.card-img {
+  width: 50%;
+
+}
